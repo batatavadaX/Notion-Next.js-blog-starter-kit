@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'atropa',
-  domain: '',
-  author: '',
+  name: 'Atropa Mariana Trench',
+  domain: 'atropa.blog',
+  author: 'Itz_black_007 & minightmadwalk',
 
   // open graph metadata (optional)
   description: '',
 
   // social usernames (optional)
-  // twitter: 'transitive_bs',
+  // twitter: '',
   // github: '',
-  // linkedin: 'fisch2',
+  // linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
@@ -50,17 +50,17 @@ export default siteConfig({
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
   navigationStyle: 'custom',
-  navigationLinks: [
-    {
-      title: 'a',
-      pageId: 'f1c8015c8dd847219294f80863b7802e',
-    },
-    {
-      title: 'b',
-      pageId: 'f1c8015c8dd847219294f80863b7802e',
-      menuPage: true,
-    },
-  ],
+  // navigationLinks: [
+  //   {
+  //     title: 'a',
+  //     pageId: 'f1c8015c8dd847219294f80863b7802e',
+  //   },
+  //   {
+  //     title: 'b',
+  //     pageId: 'f1c8015c8dd847219294f80863b7802e',
+  //     menuPage: true,
+  //   },
+  // ],
 
   // -------- custom configs (2skydev) -------------
 
