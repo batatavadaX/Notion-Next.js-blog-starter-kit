@@ -53,11 +53,11 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'a',
-      pageId: 'fa9a8ef9daf74265b20c2838bb3f8beb',
+      pageId: 'dddaeedc4e3c496ea57908424597d33d',
     },
     {
       title: 'b',
-      pageId: 'fa9a8ef9daf74265b20c2838bb3f8beb',
+      pageId: 'dddaeedc4e3c496ea57908424597d33d',
       menuPage: true,
     },
   ],
